@@ -71,6 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-# Tutotial Source
+# Tutorial Source
 
 https://dev.to/nasreenkhalid/react-s-usehistory-and-redirect-hooks-550o
