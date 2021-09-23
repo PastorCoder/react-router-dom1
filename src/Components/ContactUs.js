@@ -4,11 +4,11 @@ import { useHistory } from 'react-router-dom'
 export const ContactUs = ({login}) => {
     const history = useHistory();
 
-//     useEffect(()=>{
-//         if(!login){
-//             history.push("/")
-//         }
-// },[login,history]);
+    useEffect(()=>{
+        if(!login){
+            history.push("/")
+        }
+},[login,history]);
 
     return (
         <div>
